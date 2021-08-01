@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello 👋
 
-<!--
-**Skaarjxd/Skaarjxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter](https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100066915210954)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandr-dyachenko-046521218/)
 
-Here are some ideas to get you started:
+My name's **Aleksandr** and I am an IT recruiter. I recently became one, but I am sure that if you are looking for a job, then I can help you 😉
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr />
+
+<details>
+  <summary><b>GitHub Statistics</b></summary>
+  <div>
+    <img height="135px" src="https://github-readme-stats.vercel.app/api?username=skaarjxd&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nord" />
+    <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaarjxd&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nord" />
+  </div>
+</details>
